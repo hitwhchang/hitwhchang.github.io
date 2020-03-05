@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hitwhchang.github.io</id>
     <title>妹子</title>
-    <updated>2020-03-05T13:13:30.088Z</updated>
+    <updated>2020-03-05T13:16:55.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hitwhchang.github.io"/>
     <link rel="self" href="https://hitwhchang.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hitwhchang.github.io/images/avatar.png</logo>
     <icon>https://hitwhchang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 妹子</rights>
+    <entry>
+        <title type="html"><![CDATA[今日妹子]]></title>
+        <id>https://hitwhchang.github.io/post/jin-ri-mei-zi/</id>
+        <link href="https://hitwhchang.github.io/post/jin-ri-mei-zi/">
+        </link>
+        <updated>2020-03-05T13:14:08.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://hitwhchang.github.io/post-images/1583414207044.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hitwhchang.github.io/post/hello-gridea/</id>
