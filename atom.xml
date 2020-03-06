@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hitwhchang.github.io</id>
-    <title>妹子</title>
-    <updated>2020-03-06T02:17:45.681Z</updated>
+    <title>Uil 的个人空间</title>
+    <updated>2020-03-06T02:18:11.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hitwhchang.github.io"/>
     <link rel="self" href="https://hitwhchang.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://hitwhchang.github.io/images/avatar.png</logo>
     <icon>https://hitwhchang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 妹子</rights>
+    <rights>All rights reserved 2020, Uil 的个人空间</rights>
     <entry>
         <title type="html"><![CDATA[美图]]></title>
         <id>https://hitwhchang.github.io/post/mei-tu/</id>
